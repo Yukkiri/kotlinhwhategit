@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_size">48dp</dimen>
+    <dimen name="date_text_size">10sp</dimen>
+    <dimen name="margin_icons_top">16dp</dimen>
+    <dimen name="margin_icons_side">50dp</dimen>
+    <dimen name="main_text_size">18sp</dimen>
+    <dimen name="post_margin">10dp</dimen>
+    <dimen name="post_height">150dp</dimen>
+    <dimen name="margin_icons_count">10dp</dimen>
+</resources>
